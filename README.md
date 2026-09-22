@@ -5,6 +5,10 @@ Initial GitHub push for new students
 
 Follow these steps to collaborate effectively with your team. 
 
+Team Leads:
+
+Create a index.html page.
+
 STEP 1: Commit Your Changes 
 
 1. Save your work. 
@@ -36,4 +40,6 @@ STEP 4: Best Practices
 ✅ Make small, frequent commits 
 ✅ Write clear commit messages 
 ✅ Communicate with your team 
+
+This is a test
  
